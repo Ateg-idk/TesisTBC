@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">TesisTBC</string>
+    inicio sesion
+
+    <string name="frgCfgLblBienvenida"> Bienvenido </string>
+    <string name="frgCfgLbluse"> Usuario </string>
+    <string name="frgCfgLblcampo"> Campo Obligatorio </string>
+    <string name="frgCfgLblcontr"> Contraseña </string>
+    <string name="frgCfgLblobli"> Campo Obligatorio </string>
+    <string name="frgCfgLblRC"> Recordar Contraseña </string>
+    <string name="frgCfgBtninises">" Iniciar Sesion "</string>
+    <string name="frgCfgLblrg"> Registrate </string>
+    <string name="frgCfgLblredes"> Redes Sociales </string>
+
+    //inicio
+    <string name="frgCfgLblinc"> Inicio </string>
+    <string name="frgCfgLblrv"> Recetas más vistas </string>
+    <string name="frgCfgLblrr"> Recetas Recientes </string>
+</resources>
