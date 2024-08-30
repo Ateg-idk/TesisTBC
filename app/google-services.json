@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "10687335469",
+    "project_id": "tesistbc1-a143f",
+    "storage_bucket": "tesistbc1-a143f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10687335469:android:cb69f8736c427b37673ca4",
+        "android_client_info": {
+          "package_name": "com.example.tesistbc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwnRbLiq8_A9Z_jQF1k5I6tBCSDHkEzZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
