@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools">
+
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
     <application
         android:allowBackup="true"
         android:dataExtractionRules="@xml/data_extraction_rules"
@@ -14,11 +16,25 @@
         android:theme="@style/Theme.TesisTBC"
         tools:targetApi="31">
         <activity
+            android:name=".actividades.PerfilActivity"
+            android:exported="false" />
+        <activity
+            android:name=".actividades.MensajesActivity"
+            android:exported="false" />
+        <activity
+            android:name=".actividades.ConsejosActivity"
+            android:exported="false" />
+        <activity
+            android:name=".actividades.HoyActivity"
+            android:exported="false" />
+        <activity
+            android:name=".actividades.PrincipalActivity"
+            android:exported="false" />
+        <activity
             android:name=".actividades.registrarActivity"
             android:exported="false" />
         <activity
-
-        android:name=".actividades.InicioSesionActivity"
+            android:name=".actividades.InicioSesionActivity"
             android:exported="false" />
         <activity
             android:name=".actividades.CargaActivity"
